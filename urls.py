@@ -20,3 +20,4 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'', include(blog.urls')),
 ]
+url.open(http://127.0.0.1:8000/)
