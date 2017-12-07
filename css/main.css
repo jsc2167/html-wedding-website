@@ -1,14 +1,14 @@
 body {
     margin: 60px auto;
     width: 70%;
-    body background=<http://www.backgroundsy.com/file/large/light-blue-background.jpg>;
+    background-image: url("http://www.backgroundsy.com/file/large/light-blue-background.jpg");
 }
 nav ul, footer ul {
     font-family:'Georgia', 'Times New Roman';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    body background=<http://www.backgroundsy.com/file/large/light-blue-background.jpg>;
+/*     background-image:url("http://www.backgroundsy.com/file/large/light-blue-background.jpg"); */
 }
 nav ul li, footer ul li {
     display: inline;
@@ -17,7 +17,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
-    body background=<http://www.backgroundsy.com/file/large/light-blue-background.jpg>;
+/*     background-image:url("http://www.backgroundsy.com/file/large/light-blue-background.jpg"); */
 }
 a:hover {
     text-decoration: underline;
