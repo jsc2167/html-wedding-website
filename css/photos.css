@@ -1,3 +1,6 @@
+/*link to photos stylesheet*/
+<link rel="photos_stylesheet" type="text/css" href="/css/photos.css">
+
 /*keyframe animations*/
 .first {
 	-webkit-animation: bannermove 30s linear infinite;
